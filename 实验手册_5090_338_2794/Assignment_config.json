@@ -1,0 +1,17 @@
+{
+  "提交类型": [
+    "external_tool"
+  ],
+  "外部工具URL": "http://lsn.sugonedu.com:7778/edu/",
+  "开启实验操作记录": null,
+  "开启实验周": false,
+  "开启GPU支持": false,
+  "开启集群模式": false,
+  "实验机CPU上限": 2,
+  "实验机内存上限": "4G",
+  "实验机节点配置": null,
+  "实验机初始时长": 60,
+  "实验机延时时长": "15 分",
+  "实验机类型": "python",
+  "实验机名称": "ubuntu16.04_pycharm_miniconda3"
+}
